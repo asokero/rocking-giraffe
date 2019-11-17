@@ -5,7 +5,7 @@ Plans and photos of my Rocking Giraffe project released in Creative Commons Attr
 
 This repository features documentation for my first woodworking project the Rocking Giraffe. Featured are rough blueprints, some photos and part sizes. 
 
-![](https://rocking-giraffe-final.jpg | width=400)
+<img src="https://rocking-giraffe-final.jpg" width="400">
 
 The project was started the day my daughter was born in 2017 and finished for her first bithday a year later.
 It was inspired by a photo of a rocking giraffe I found from Pinterest.
@@ -24,11 +24,11 @@ twitter.com/asokero
 - You can use any application capable of opening svg files, but I would recommend using Inkscape. It can be downloaded for free from here: https://inkscape.org/ 
 - Drawing should be fairly accurate compared to the final giraffe. Plans and the parts are drawn in metric units. You can checkout the sizes of the different parts by clicking the part and using the W & H values (in mm) at the toolbar or by using the Ruler tool. So you´ll need some practicing with the applications to get most out of it.
 
-[rocking-giraffe-mainbody-side.pdf[(https://github.com/asokero/rocking_giraffe/rocking-giraffe-mainbody-side.pdf)
+[rocking-giraffe-mainbody-side.pdf](https://github.com/asokero/rocking_giraffe/rocking-giraffe-mainbody-side.pdf)
 - Exported image of the side view. 
 - PDF-file that can easily be printed and used as a template for making the main body.
 
-[rocking-giraffe-rockers.pdf[(https://github.com/asokero/rocking_giraffe/rocking-giraffe-rockers-side.pdf)
+[rocking-giraffe-rockers.pdf](https://github.com/asokero/rocking_giraffe/rocking-giraffe-rockers-side.pdf)
 - Exported image of the rockers viewed from the side. 
 - PDF-file that can easily be printed and used as a template for making the rockers.
 
@@ -41,7 +41,7 @@ twitter.com/asokero
 
 The Rocking Giraffe has been put together from following parts. The main material for all the parts (except the handle) was raw birch plank.
 
-[![Raw material](https://github.com/asokero/rocking_giraffe/img/material-raw-birch-plank.jpg)]
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/material-raw-birch-plank.jpg" width="400">
 
 ### Main body
 
@@ -49,14 +49,16 @@ The Rocking Giraffe has been put together from following parts. The main materia
 
 The main body is the largest part of the rocker. The body of my giraffe was made from sawed pieces of the birch plank that were glued together. 
 
-![](main-body-01-glued.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-01-glued.jpg" width="400">
 Then this part was planed down and cut to shape.
 
-![](main-body-02-to be sawed.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-02-to_be_sawed.jpg" width="400">
 
 The main body had one through hole for the handle. Also smaller holes were made on the side and to the bottom of the "feet" to connect the side supports and the stands with wooden pins.
 
-![](main-body-final.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-01-glued.jpg" width="400">
+
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-final.jpg" width="400">
 
 ### Seat
 
@@ -64,13 +66,13 @@ Height: ~515 mm, Width:~33mm Lenght: ~518mm
 
 The seat was crafted from two surplus pieces of birch, glued together, sawed and sanded down to shape. 
 
-![](seat-01-blocks.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/seat-01-blocks.jpg" width="400">
 
-![](seat-03-sawed-and-sanded.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/seat-03-sawed-and-sanded.jpg" width="400">
 
 The seat has a slot (as wide as the thickness of the main body) underneath and in front to make a tight fit with the main body. 
 
-![](seat-02-slot.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/seat-02-slot.jpg" width="400">
 
 The seat was glued on place.
 
@@ -81,7 +83,7 @@ The seat was glued on place.
 
 There are four pieces of side supports, two in the front and two at the back. They are needed to make the structure strong enough. The pieces were made identical by gluing four pieces of wood together with a piece of newspaper in between (to make it easy to separate them after shaping). This glued together block of four wood pieces was then sawed and sanded to final shape. Then the pieces were separated and given a finishing sanding. Both of the straight edges had holes for wooden ping to connect supports to main body and the stands.
 
-![](side supports-final.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/side supports-final.jpg" width="400">
 
 ### Stands
 
@@ -89,7 +91,7 @@ There are four pieces of side supports, two in the front and two at the back. Th
 
 The stands connect the rockers and the mainbody together. They are two identical wooden pieces of 100 mm x 25 mm x 20 mm. They have several holes for wooden pins to connect the mainbody, rockers and the side supports.
 
-![](stands-final.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/stands-final.jpg" width="400">
 
 ### Rockers
 
@@ -97,11 +99,11 @@ The stands connect the rockers and the mainbody together. They are two identical
 
 The two rockers were prepared from a sawed and planed down, long piece of birch blank. Plank was cut to two pieces, which were glued together with some newspaper in between and sawed and sanded to shape. 
 
-![](rockers-01-glued.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/rockers-01-glued.jpg" width="400">
 
 Both of the rockers had holes on the sode for connecting the stands with wooden pins.
 
-![](rockers-final.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/rockers-final.jpg" width="400">
 
 ### Handle
 
@@ -109,7 +111,7 @@ Both of the rockers had holes on the sode for connecting the stands with wooden 
 
 The handle was made from a piece of pole (diameter 25mm) sanded to fit the handle hole on the main body.
 
-![](handlebar.jpg | width=400)
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/handlebar.jpg" width="400">
 
 
 
