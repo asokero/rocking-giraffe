@@ -15,7 +15,7 @@ application. This svg plan is the one and only I used to make my giraffe, so it 
 
 I you end up using or get inspired by this, please let me know :)
 
-twitter.com/asokero
+[twitter.com/asokero](https://twitter.com/asokero)
 
 ## Basics about the plas/files
 
@@ -34,7 +34,7 @@ twitter.com/asokero
 
 ## Known issues
 
-- Getting the weight balance optimal can be challenging. In my final version the weight is too much back.
+- Getting the weight balance optimal can be challenging. In my final version the weight is too much at back so pay extra attention to this when putting it together.
 
   
 ## Used material and construction
