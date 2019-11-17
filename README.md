@@ -3,15 +3,15 @@ Plans and photos of my Rocking Giraffe project released in Creative Commons Attr
 
 ## About the project
 
-This repository features documentation for my first woodworking project the Rocking Giraffe. Featured are rough blueprints, some photos and part sizes. 
+This repository features documentation for my first woodworking project the Rocking Giraffe. Featured are rough blueprints, some photos and sizes of the parts etc. 
 
-<img src="https://rocking-giraffe-final.jpg" width="400">
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/rocking-giraffe-final.jpg" width="400">
 
-The project was started the day my daughter was born in 2017 and finished for her first bithday a year later.
+The project was started the day my daughter was born in 2017, and finished for her first bithday a year later.
 It was inspired by a photo of a rocking giraffe I found from Pinterest.
 
 At this point the repository has the basic plans, drawn in svg-format with Inkscape - an open source vector drawing
-application. This svg plan is the one and only I used to make my giraffe, so it is not a perfect and the most accurate drawing. But it works as a guideline for creating your own "rocker" and leaves you a fair bit of room for your own creativity.
+application. This svg plan is the one and only I used to make my giraffe, so it is not a perfect and the most accurate drawing. But it works as a guideline for creating your own "rocker" and leaves you a fair bit of room for your own creativity. Also some "process photos" are available for reference.
 
 I you end up using or get inspired by this, please let me know :)
 
@@ -19,16 +19,16 @@ twitter.com/asokero
 
 ## Basics about the plas/files
 
-[rocking-giraffe-blueprints.svg](https://github.com/asokero/rocking_giraffe/rocking-giraffe-blueprints.svg)
+[rocking-giraffe-blueprints.svg](https://github.com/asokero/rocking-giraffe/raw/master/rocking-giraffe-blueprints.svg)
 - File is created with Inkscape (version 0.92)
 - You can use any application capable of opening svg files, but I would recommend using Inkscape. It can be downloaded for free from here: https://inkscape.org/ 
 - Drawing should be fairly accurate compared to the final giraffe. Plans and the parts are drawn in metric units. You can checkout the sizes of the different parts by clicking the part and using the W & H values (in mm) at the toolbar or by using the Ruler tool. So you´ll need some practicing with the applications to get most out of it.
 
-[rocking-giraffe-mainbody-side.pdf](https://github.com/asokero/rocking_giraffe/rocking-giraffe-mainbody-side.pdf)
+[rocking-giraffe-mainbody-side.pdf](https://github.com/asokero/rocking-giraffe/raw/master/rocking-giraffe-mainbody-side.pdf)
 - Exported image of the side view. 
 - PDF-file that can easily be printed and used as a template for making the main body.
 
-[rocking-giraffe-rockers.pdf](https://github.com/asokero/rocking_giraffe/rocking-giraffe-rockers-side.pdf)
+[rocking-giraffe-rockers.pdf](https://github.com/asokero/rocking-giraffe/raw/master/rocking-giraffe-rockers-side.pdf)
 - Exported image of the rockers viewed from the side. 
 - PDF-file that can easily be printed and used as a template for making the rockers.
 
@@ -54,9 +54,9 @@ Then this part was planed down and cut to shape.
 
 <img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-02-to_be_sawed.jpg" width="400">
 
-The main body had one through hole for the handle. Also smaller holes were made on the side and to the bottom of the "feet" to connect the side supports and the stands with wooden pins.
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-03-milling-cutter.jpg" width="400">
 
-<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-01-glued.jpg" width="400">
+The main body had one through hole for the handle. Also smaller holes were made on the side and to the bottom of the "feet" to connect the side supports and the stands with wooden pins.
 
 <img src="https://github.com/asokero/rocking-giraffe/raw/master/img/main-body-final.jpg" width="400">
 
@@ -83,7 +83,7 @@ The seat was glued on place.
 
 There are four pieces of side supports, two in the front and two at the back. They are needed to make the structure strong enough. The pieces were made identical by gluing four pieces of wood together with a piece of newspaper in between (to make it easy to separate them after shaping). This glued together block of four wood pieces was then sawed and sanded to final shape. Then the pieces were separated and given a finishing sanding. Both of the straight edges had holes for wooden ping to connect supports to main body and the stands.
 
-<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/side supports-final.jpg" width="400">
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/side-supports-final.jpg" width="400">
 
 ### Stands
 
