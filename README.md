@@ -1,5 +1,5 @@
 # rocking-giraffe
-Plans and photos of my Rocking Giraffe project. released in Creative Commons Attribution-ShareAlike 4.0 International License.
+Plans and photos of my Rocking Giraffe project - released in Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ## About the project
 
@@ -17,7 +17,7 @@ If you find this info useful or  your own project is inspired by this, please le
 
 [twitter.com/asokero](https://twitter.com/asokero)
 
-## Basics about the plas/files
+## Basic info the plans/files
 
 [rocking-giraffe-blueprints.svg](https://github.com/asokero/rocking-giraffe/raw/master/rocking-giraffe-blueprints.svg)
 - File is created with Inkscape (version 0.92)
@@ -39,7 +39,7 @@ If you find this info useful or  your own project is inspired by this, please le
   
 ## Used material and construction
 
-The Rocking Giraffe has been put together from following parts. The main material for all the parts (except the handle) was raw birch plank.
+The Rocking Giraffe has been put together from following parts. The main material for all the parts (except the handle) was birch plank.
 
 <img src="https://github.com/asokero/rocking-giraffe/raw/master/img/material-raw-birch-plank.jpg" width="400">
 
