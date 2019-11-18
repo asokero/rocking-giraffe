@@ -17,7 +17,7 @@ If you find this info useful or  your own project is inspired by this, please le
 
 [twitter.com/asokero](https://twitter.com/asokero)
 
-## Basic info the plans/files
+## Basic info about the plans/files
 
 [rocking-giraffe-blueprints.svg](https://github.com/asokero/rocking-giraffe/raw/master/rocking-giraffe-blueprints.svg)
 - File is created with Inkscape (version 0.92)
