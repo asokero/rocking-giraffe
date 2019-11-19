@@ -14,6 +14,8 @@ At this point the repository has the basic plans, drawn in SVG format with [Inks
 application. This SVG file worked as a fairly accurate guideline and plan for creating my own "rocker" and it could work as the same for you. 
 Still it leaves you a fair bit of room for your own creativity, especially for the actual process. Still also some "process photos" are available for reference and more could be added later.
 
+<img src="https://github.com/asokero/rocking-giraffe/raw/master/img/plans-printed-and-cut.jpg" width="400">
+
 If you find this info useful or your own project is inspired by this, please let me know :)
 
 [twitter.com/asokero](https://twitter.com/asokero)
