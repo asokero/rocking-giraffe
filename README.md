@@ -3,17 +3,18 @@ Plans and photos of my Rocking Giraffe project - released in Creative Commons At
 
 ## About the project
 
-This repository features documentation from my first woodworking project the Rocking Giraffe. Featured here are rough blueprints, some photos and other info. 
+This repository features documentation, blueprints and photos from my first woodworking project the Rocking Giraffe. 
 
 <img src="https://github.com/asokero/rocking-giraffe/raw/master/img/rocking-giraffe-final.jpg" width="400">
 
 The project was started the day my daughter was born in 2017, and finished for her first bithday one year later.
-It was inspired by a photo of a rocking giraffe I found from Pinterest.
+It was inspired by a photo of a rocking giraffe I found from [Pinterest](https://fi.pinterest.com/pin/822329213184811040/), but the design and plans here are entirely created by me.
 
-At this point the repository has the basic plans, drawn in svg-format with Inkscape - an open source vector drawing
-application. This svg plan is the one and only I used to make my giraffe, so it is not a perfect and the most accurate drawing. But it works as a guideline for creating your own "rocker" and leaves you a fair bit of room for your own creativity. Also some "process photos" are available for reference.
+At this point the repository has the basic plans, drawn in SVG format with [Inkscape](https://inkscape.org/) - an open source vector drawing
+application. This SVG file worked as a fairly accurate guideline and plan for creating my own "rocker" and it could work as the same for you. 
+Still it leaves you a fair bit of room for your own creativity, especially for the actual process. Still also some "process photos" are available for reference and more could be added later.
 
-If you find this info useful or  your own project is inspired by this, please let me know :)
+If you find this info useful or your own project is inspired by this, please let me know :)
 
 [twitter.com/asokero](https://twitter.com/asokero)
 
